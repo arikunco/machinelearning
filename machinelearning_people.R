@@ -1,6 +1,6 @@
 # Title       : machinelearning_people.R 
-# Description : This is an online retail script and its formatting process with RFM method.
-# Objective   : To format data (after cleaning)
+# Description : This is an people analytic machine learning script with HR dataset.
+# Objective   : To create logistic regression model. 
 # Data source : https://www.kaggle.com/dguo456/employee-turnover-prediction-logistic-regression/data 
 
 # remove all variables (start from scratch)
