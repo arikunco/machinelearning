@@ -1,6 +1,4 @@
-# Title     : Machine Learning I (Regression and Classification)
-# Data MBA  : Pertemuan #14
-# Tanggal   : 20 Maret 2019
+# Title     : Machine Learning (Regression and Classification)
 
 # install Package jika belum
 # install.packages("ISLR")
