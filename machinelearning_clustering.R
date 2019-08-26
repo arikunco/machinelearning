@@ -1,4 +1,4 @@
-# Title : Machine Learning II (Clustering)
+# Title : Machine Learning (Clustering)
 
 
 #loading iris database
